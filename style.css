@@ -1,0 +1,78 @@
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+
+#header {
+  background-color: rgb(235, 234, 234);
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  height: 4vh;
+}
+
+.color-primary {
+  color: #003859;
+}
+
+.color-second {
+  color: #00a5c4;
+}
+
+.color-yellow {
+  color: #ffd289;
+}
+
+.color-primary-bg {
+  background-color: #003859;
+}
+
+.color-second-bg {
+  background-color: #00a5c4;
+}
+
+.color-yellow-bg {
+  background-color: #ffd289;
+}
+
+.font-baloo {
+  font-family: baloo thambi 2, cursive;
+}
+
+.font-raleway {
+  font-family: Raleway, cursive;
+}
+.font-Rubik {
+  font-family: Rubik, cursive;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-18 {
+  font-size: 18px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.trans {
+  transition: all 1s linear 0.1s;
+}
+
+.trans:hover {
+  transform: scale(1.1);
+}
+
